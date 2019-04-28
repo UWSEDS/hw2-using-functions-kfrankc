@@ -1,8 +1,9 @@
 # HW2 - Using Functions
 
-##### Grade: 7/7   
-   
+##### Grade: 7/7    
+
 Nice work!
+
 -----
 
 Create a python module (a file with extension ‘.py’) with the following functions:
